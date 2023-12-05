@@ -18,6 +18,6 @@ Bienvenido a la organización KeepClix en GitHub. Estamos dedicados al desarroll
 
 4. **Chat bot - KeepClix Chatbot landing page**
    - Repositorio: [keepclix-chatbot](https://github.com/Poketruchas/Chatbot_landingpage.git)
-   - Gestión de la base de datos que almacena la información necesaria para el análisis de churn.
+   - Pagina web donde se encuentra el chatbot.
 
 ¡Gracias por ser parte de KeepClix!
